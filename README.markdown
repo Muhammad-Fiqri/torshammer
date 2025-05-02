@@ -1,8 +1,10 @@
 ----------------------------------------------------
 # Use for educational purposes ONLY
 
-## This is a maintained fork of Torshammer  
-It works with the new TOR port 9150  
+## This is not a maintained fork of Torshammer  
+It works with the new TOR port 9150
+It works with Python Version 2
+Use pyenv to switch to Python Version 2
 
 #### TORS HAMMER HOW TO  
 ----------------------------------------------------
